@@ -1,5 +1,65 @@
 # Repaso
 
+# Conceptos
+
+**1. Aleatorización.** Consiste en hacer las corridas experimentales en orden aleatorio (al azar) y con material también
+seleccionado aleatoriamente.
+
+**2. Bloqueo.** Consiste en nulificar o tomar en cuenta, en forma adecuada, todos los factores que puedan afectar la
+respuesta observada. Al bloquear, se supone que el subconjunto de datos que se obtengan dentro de cada bloque
+(nivel particular del factor bloqueado), debe resultar más homogéneo que el conjunto total de datos.
+
+**3. Diseño de experimentos** Consiste en planear y realizar un conjunto de pruebas con el objetivo de generar datos
+que, al ser analizados estadísticamente, proporcionen evidencias objetivas que permitan responder las
+interrogantes planteadas por el experimentador sobre determinada situación.
+
+**6. Error aleatorio** Es la variabilidad observada que no se puede explicar por los factores estudiados; resulta
+del pequeño efecto de los factores no estudiados y del error experimental
+
+**5. Error experimental** Componente del error aleatorio que refleja los errores del experimentador en la planeación y
+ejecución del experimento.
+
+**6. Experimento** Es un cambio en las condiciones de operación de un sistema o proceso, que se hace con el
+objetivo de medir el efecto del cambio en una o varias propiedades del producto o resultado.
+
+**7. Factores controlable**s Son variables de proceso y/o características de los materiales y los métodos
+experimentales que se pueden fijar en un nivel dado.
+
+**8. Factores estudiados** Son las variables que se investigan en el experimento para observar cómo afectan o influyen
+en la variable de respuesta.
+
+**9. Factores no controlables** Son variables que no se pueden controlar durante el experimento o la operación
+normal del proceso.
+
+**10. Matriz de diseño** Es el arreglo formado por los tratamientos que serán corridos, incluyendo las repeticiones.
+
+**11. Niveles** Los diferentes valores que se asignan a cada factor estudiado en un diseño experimental se llaman
+niveles.
+
+**12. Planeación** Son actividades encaminadas a entender, delimitar el problema u objeto de estudio y seleccionar
+variables de respuesta y factores. Concluye con la especificación de los tratamientos a realizar y con la
+organización del trabajo experimental.
+
+**13. Proceso de deducción** Es cuando las consecuencias derivadas de la hipótesis pueden ser comparadas con los
+datos.
+
+**14. Proceso de inducción** Es cuando las consecuencias de la hipótesis original y los datos no están de acuerdo,
+por lo que se inicia este proceso para cambiar tal hipótesis.
+
+**15. Tratamiento** Es una combinación de niveles de todos los factores estudiados.
+
+**16. Repetición** Es realizar o correr más de una vez un tratamiento o una combinación de factores. Es preciso no
+confundir este principio con medir varias veces el mismo resultado experimental.
+
+**17. Unidad experimental** Pieza(s) o muestra(s) que se utiliza para generar un valor que sea representativo del
+resultado de la prueba.
+
+**18. Variable(s) de respuesta. **A través de esta(s) variable(s) se conoce el efecto o los resultados de cada prueba
+experimental, por lo que pueden ser características de la calidad de un producto y/o variables que miden el
+desempeño de
+
+# Hipotesis
+ 
 - **Prueba de hipotesis :** Es un procedimiento estadistico para evaluar si el azar es una explicación aprobada de un resultado experimental. 
 - **Valor probabilidad :** Es la probabilidad de que ocurra un resultado 9/16 veces o mas (por ejemplo), y no que suceda un determinado estado de la naturaleza.
 El valor de la probabilidad es la probabilidad de obtener un resultado dada una hipotesis. 
@@ -25,3 +85,7 @@ El valor de la probabilidad es la probabilidad de obtener un resultado dada una 
 ### Un investigador NO puede concluir que una hipotesis nula es verdadera cuando la prueba no es estadisticamente significante (Se considera la prueba NO CONCLUYENTE)
 - La probabilidad de cometer un error tipo 2 es beta.
 - La probabilidad de rechazar correctamente una hipotesis nula es igual a 1-beta y se denomina potencia. 
+
+## Prueba de una o dos colas
+- La probabilidad calculada en una cola de la distribución se conocerá como **probabilidad de una cola**
+- La probabilidad calculada en ambas colas de la distribución, se llama **probabilidad de dos colas**
