@@ -58,6 +58,29 @@ resultado de la prueba.
 experimental, por lo que pueden ser características de la calidad de un producto y/o variables que miden el
 desempeño de
 
+# Principios
+1. Aleatoriedad
+2. Repetición
+3. Bloqueo
+
+# Clasificación de experimentos
+1. Unifactorial
+2. Factorial
+
+## De acuerdo con su objetivo, los experimentos se clasifican en:
+1. Diseño para comparar dos o más tratamientos
+2. Para estudiar el efecto de varios factores sobre la(s) respuesta(s).
+3. Para determinar el punto optimo de la operación de un proceso. 
+4. Para la optimización de una mezcla.
+5. Para hacer el producto o proceso insensible a factores no controlables. 
+
+## 5 aspectos que mas influyen en la selección del diseño experimental 
+1. El objetivo del experimento
+2. El numero de factores a estudiar
+3. El número de niveles que se prueban en cada factor.
+4. Los efectos que interesa investigar (relación respuesta - factor)
+5. El costo del experimento, tiempo y precisión deseada. 
+
 # Hipotesis
  
 - **Prueba de hipotesis :** Es un procedimiento estadistico para evaluar si el azar es una explicación aprobada de un resultado experimental. 
