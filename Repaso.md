@@ -56,7 +56,16 @@ resultado de la prueba.
 
 **18. Variable(s) de respuesta.** A través de esta(s) variable(s) se conoce el efecto o los resultados de cada prueba
 experimental, por lo que pueden ser características de la calidad de un producto y/o variables que miden el
-desempeño de
+desempeño de.
+
+- **Nivel de confianza:** Es la probabilidad de cometer el error tipo 1 = alfa, se asigna antes de hacer el contraste, su asignación es arbitratia, su valor es 0.05 o 0.01, es la probabilidad de rechazo de la H0.
+
+- **Coeficiente / nivel de confianza**  1- alfa, Es la probabilidad de que la H0 no sea rechazada, cuando realmente es cierta, no se debe rechazar. Es el complemento de la probabilidad de cometer el error tipo 1 (1-alfa) * 100.
+
+- **Riesgo** Es la probabilidad de rechazar H0 cuando realmente es Falsa depende de la diferencia entre el valor hipotetico y el valor poblacional. 
+
+**Potencia de prueba** Es la probabilidad de rechazar H0 cuando realmente es falsa y debe rechazarse es 1-beta ó Error tipo 2. 
+- Se incrementa con la utilización de los principios. 
 
 # Principios
 1. Aleatoriedad
