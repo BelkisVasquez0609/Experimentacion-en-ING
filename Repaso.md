@@ -137,3 +137,9 @@ El valor de la probabilidad es la probabilidad de obtener un resultado dada una 
 
 # Diseño completamente al azar
 - El diseño completamente al azar (DCA), que es el más simple de todos los diseños que se utilizan para comparar dos o más tratamientos, dado que sólo consideran dos fuentes de variabilidad: los tratamientos y el error aleatorio; se llama completamente al azar porque todas las corridas o realizaciones experimentales se realizan en orden aleatorio completo.
+
+# ANOVA
+El análisis de varianza (ANOVA o ANDEVA) es la técnica central en el análisis de datos
+experimentales. La idea general de esta técnica es separar la variación total en las
+partes con las que contribuye cada fuente de variación en el experimento. En el caso
+del DCA se separan la variabilidad debida a los tratamientos y la debida al error
