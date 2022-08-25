@@ -54,7 +54,7 @@ confundir este principio con medir varias veces el mismo resultado experimental.
 **17. Unidad experimental** Pieza(s) o muestra(s) que se utiliza para generar un valor que sea representativo del
 resultado de la prueba.
 
-**18. Variable(s) de respuesta. **A través de esta(s) variable(s) se conoce el efecto o los resultados de cada prueba
+**18. Variable(s) de respuesta.** A través de esta(s) variable(s) se conoce el efecto o los resultados de cada prueba
 experimental, por lo que pueden ser características de la calidad de un producto y/o variables que miden el
 desempeño de
 
@@ -93,6 +93,9 @@ El valor de la probabilidad es la probabilidad de obtener un resultado dada una 
 - **p** es el coeficiente de correlación en la población y **r** es el coeficiente de correlación de la muestra. 
 
 ## La hipotesis nula es falsa, si el valor de probabilidad es menor a 0.05, osea, alfa. 
+
+## Si f es menor que el f crit entonces se acepta y si es mayor se rechaza
+
 -  Los investigadores más conservadores concluyen que la hipotesis nula es falsa, solamente si el valor de la probabilidad es menor de 0.01.
 -  Si la probabilidad es menor que 0.01 hay **fuertes indicios** de que la hipotesis nula es **falsa**, pero si es menor que 0.05 y mayor que 0.01, se rechaza, pero no con la misma confianza que para el caso en el que p valor fuera menor a 0.01. 
 -  Valores entre 0.05 y 0.10 proporcionan **pruebas debiles en contra de la hipotesis nula** y **no** se consideran suficientemente pequeñas para justificar el rechazo de esta. 
@@ -113,4 +116,11 @@ El valor de la probabilidad es la probabilidad de obtener un resultado dada una 
 
 ## Prueba de una o dos colas
 - La probabilidad calculada en una cola de la distribución se conocerá como **probabilidad de una cola**
+- Si tu hipotesis alterna es de forma > o <, la prueba es de **una cola**
+- El area de la region de aceptacion es de 0.05
 - La probabilidad calculada en ambas colas de la distribución, se llama **probabilidad de dos colas**
+-  Si tu hipotesis alterna es de forma !=, la prueba es de **dos colas**
+-  - El area de la region de aceptacion es de 0.025 cada una
+
+
+- **Diseño balanceado **Cuando todos los tramatientos tienen el mismo numero de  observaciones.
