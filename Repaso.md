@@ -124,3 +124,16 @@ El valor de la probabilidad es la probabilidad de obtener un resultado dada una 
 
 
 - **Diseño balanceado **Cuando todos los tramatientos tienen el mismo numero de  observaciones.
+
+# Etapas 
+
+1. Entiendo y delimito el objetivo
+2. Elijo la o las variables de respuesta de acuerdo al objetivo
+3. Elijo los factores de estudio que podrian influir en la variable de respuesta
+4. Selecciono los niveles de los factores de estudio y el diseño experimental de acuerdo al objetivo
+5. Planeo y organizo el experimento
+6. Realizo el experimento
+7. Analizo e interpreto las conclusiones finales.
+
+# Diseño completamente al azar
+- El diseño completamente al azar (DCA), que es el más simple de todos los diseños que se utilizan para comparar dos o más tratamientos, dado que sólo consideran dos fuentes de variabilidad: los tratamientos y el error aleatorio; se llama completamente al azar porque todas las corridas o realizaciones experimentales se realizan en orden aleatorio completo.
