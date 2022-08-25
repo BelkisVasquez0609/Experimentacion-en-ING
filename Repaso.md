@@ -83,6 +83,8 @@ desempeño de
 
 # Hipotesis
  
+ Una hipotesis estadistica es una afirmación sobre los valores de los parámetros de una población o proceso. 
+ 
 - **Prueba de hipotesis :** Es un procedimiento estadistico para evaluar si el azar es una explicación aprobada de un resultado experimental. 
 - **Valor probabilidad :** Es la probabilidad de que ocurra un resultado 9/16 veces o mas (por ejemplo), y no que suceda un determinado estado de la naturaleza.
 El valor de la probabilidad es la probabilidad de obtener un resultado dada una hipotesis. 
