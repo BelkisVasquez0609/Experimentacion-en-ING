@@ -161,12 +161,12 @@ responsable de la toma de decisiones idea alguna de si el valor calculado del es
 región de rechazo o si se adentró bastante en la misma. Además, al darse los resultados de esta manera se les impone a
 otros usuarios de la información el nivel de significación predefinido. Este enfoque puede ser insatisfactorio porque
 algunos responsables de la toma de decisiones podrían sentirse incómodos con los riesgos que implica el valor  = 0.05.
-Para evitar estas dificultades, en la práctica se ha adoptado extensivamente el enfoque del valor P. El valor 𝑃 es la
+Para evitar estas dificultades, en la práctica se ha adoptado extensivamente el enfoque del valor P. **El valor 𝑃 es la
 probabilidad de que el estadístico de prueba asuma un valor que sea al menos tan extremo como el valor observado
-del estadístico cuando la hipótesis nula 𝑯𝒐: es verdadera. Por lo tanto, un valor P transmite mucha información acerca
+del estadístico cuando la hipótesis nula 𝑯𝒐: es verdadera**. Por lo tanto, un valor P transmite mucha información acerca
 del peso de la evidencia en contra de 𝑯𝒐: y, por consiguiente, el responsable de la toma de decisiones puede llegar a
-una conclusión con cualquier nivel de significación especificado. En términos más formales, el valor P se define como el
-nivel de significación menor que llevaría a rechazar la hipótesis nula 𝑯𝒐:.
+una conclusión con cualquier nivel de significación especificado. En términos más formales, **el valor P se define como el
+nivel de significación menor que llevaría a rechazar la hipótesis nula 𝑯𝒐:.**
 Se acostumbra decir que el estadístico de prueba (y los datos) es significativo cuando se rechaza la hipótesis nula; por lo
 tanto, el valor 𝑃 puede considerarse como el menor nivel a en el que los datos son significativos. Una vez que se conoce
 el valor 𝑝, el responsable de la toma de decisiones puede determinar la medida en que los datos son significativos sin
